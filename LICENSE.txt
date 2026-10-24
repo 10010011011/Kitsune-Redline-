@@ -1,0 +1,42 @@
+KITSUNE REDLINE — LICENSES & COPYRIGHT NOTICES
+================================================================================
+
+1. GAME CODE, PROCEDURAL MODELS, SHADERS & AUDIO SYNTHESIS
+--------------------------------------------------------------------------------
+Copyright (c) 2026 Kitsune Redline / Project Kitsune. All Rights Reserved.
+
+All game source code, procedural 3D geometry generators (including the original
+procedural GT3 widebody coupe geometry, tracks, scenery, and structures), GLSL
+shaders, procedural textures, AI controllers, and synthesized Web Audio sound
+effects are original works owned by the developer. No third-party trademarked
+automotive brand names, logos, or ripped 3D meshes are included in this build.
+
+
+2. THIRD-PARTY OPEN SOURCE SOFTWARE & FONTS BUNDLED IN THIS BUILD
+--------------------------------------------------------------------------------
+
+A) Three.js (r128) — `three.min.js`
+   License: MIT License
+   Copyright (c) 2010-2021 Three.js authors (https://threejs.org/)
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+
+B) Saira & Saira Condensed Fonts — `*.woff2` & `fonts.css`
+   License: SIL Open Font License, Version 1.1 (OFL-1.1)
+   Copyright (c) 2016 Omnibus-Type (https://www.omnibus-type.com/)
+   Licensed under the SIL Open Font License, Version 1.1, which permits free
+   commercial and non-commercial bundling, embedding, and redistribution in
+   web games and applications.
